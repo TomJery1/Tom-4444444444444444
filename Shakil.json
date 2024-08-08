@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Shakil",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -10,23 +10,23 @@
   "BOTNAME": "TOM BOT",
   "PREFIX": "?",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712",
-    "100090361566764",
-    "100093044784208",
+    "61556990423848"
+    ""
+    ""
+    ""
     ""
   ],
   "ADMINBOT": [
     "",
     "61560834278461",
     "61562409612166",
-    "61561175294315",
+    "61556990423848",
     ""
     
 
     
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61556990423848"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
