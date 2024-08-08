@@ -1,5 +1,5 @@
 {
-    "name": "NAYAN-BOT",
+    "name": "SHAKIl-BOT",
     "version": "5.1.7",
     "description": "simple messenger bot",
     "main": "",
@@ -8,7 +8,7 @@
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
-    "author": "Nayan",
+    "author": "Shakil",
     "license": "GPL-3.0",
     "dependencies": {
         "aes-js": "latest",
