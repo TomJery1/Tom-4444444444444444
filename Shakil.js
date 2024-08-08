@@ -1,5 +1,5 @@
 module.exports = async ({ api, event }) => {
-  const logger = require('./Nayan/catalogs/Nayanc.js')
+  const logger = require('./Shakil/catalogs/Shakilc.js')
   
   const configCustom = {
     autosetbio: {
