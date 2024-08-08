@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "TOM BOT",
-  "PREFIX": "?",
+  "PREFIX": "/",
   "OPERATOR": [
     "61556990423848"
     ""
