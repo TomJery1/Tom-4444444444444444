@@ -1,23 +1,23 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```Shakil Developer```</br>
 age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/VUDA.KHOR.TOM).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [SHAKIL](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Shakil Developer```
 
 ## CONFIG AND CUSTOM
 
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
+Shakil.js : ``configure auto restart and auto accept pending messages.``</br>
 Nayan.json : ``configure bot name, bot prefix, bot operators and admins.``</br>
 Nayanstate.json : ``account cache data.``
 
 ## BOX APPROVAL
 
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
+``box approval`` is set as default, you can disable it on ``Shakil.json`` by setting the ``approval`` value into ``false``</br>
 
 you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
 
@@ -36,7 +36,7 @@ remove box from approved list
 approve remove 4834812366643016
 ```
 
-## HOW TO GET 'NayanSTATE.JSON' DATA?
+## HOW TO GET 'ShakilSTATE.JSON' DATA?
 
 to get ``Nayanstate.json`` data, please follow these steps :</br>
 
