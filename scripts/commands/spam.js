@@ -2,7 +2,7 @@ module.exports.config = {
 name: "spam",
   version: "",
   permssion: 2,
-  credits: "Nayan",
+  credits: "Shakil",
   description: "",
   category: "spam",
   usages: "[msg] [amount]",
